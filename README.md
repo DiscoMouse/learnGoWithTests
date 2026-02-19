@@ -33,3 +33,10 @@ https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/hello-world
 - Refactor **complete**
 - Testable Examples **complete**
 - Wrapping up **complete**
+
+## Iteration
+- Write the test first **complete**
+- Try and run the test **complete** 
+- Write the minimal amount of code for the test to run and check the failing test output **complete**
+- Write enough code to make it pass **complete**
+- Refactor **In progress**
