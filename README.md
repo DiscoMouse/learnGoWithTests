@@ -43,3 +43,5 @@ https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/hello-world
 - Benchmark **complete**
 - Practice exercises **complete**
 - Wrapping up **complete**
+
+## Arrays and Slices **revision needed**
