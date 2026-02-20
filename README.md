@@ -41,3 +41,5 @@ https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/hello-world
 - Write enough code to make it pass **complete**
 - Refactor **complete**
 - Benchmark **complete**
+- Practice exercises **complete**
+- Wrapping up **complete**
