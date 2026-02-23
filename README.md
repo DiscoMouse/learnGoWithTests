@@ -65,4 +65,4 @@ https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/hello-world
 - Write the test first **complete**
 - Try and run the test **complete**
 - Write the minimal amount of code for the test to run and check the failing test output **complete**
-- Write enough code to make it pass **in progress**
+- Write enough code to make it pass **comple**
