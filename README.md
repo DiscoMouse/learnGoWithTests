@@ -55,4 +55,4 @@ https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/hello-world
 - Refactor **complete**
 - Wrapping up **complete**
 
-
+## Pointers & errors
