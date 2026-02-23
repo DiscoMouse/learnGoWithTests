@@ -1,2 +1,2 @@
-package directions
+package main
 
