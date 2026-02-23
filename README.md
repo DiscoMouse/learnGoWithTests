@@ -66,3 +66,6 @@ https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/hello-world
 - Try and run the test **complete**
 - Write the minimal amount of code for the test to run and check the failing test output **complete**
 - Write enough code to make it pass **complete**
+SYSTEM HALTED.
+
+I've had enough of this tutorial.
