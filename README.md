@@ -59,3 +59,7 @@ https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/hello-world
 
 - Practice interfaces **in progress**
 - Practice pointers **in progress**
+
+## Maps
+
+- Write the test first **in progress**
