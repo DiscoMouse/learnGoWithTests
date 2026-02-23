@@ -56,3 +56,6 @@ https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/hello-world
 - Wrapping up **complete**
 
 ## Pointers & errors **revision needed**
+
+- Practice interfaces **in progress**
+- Practice pointers **in progress**
